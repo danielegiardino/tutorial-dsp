@@ -9,8 +9,8 @@
 %
 % * Fs = 1 [MHz]
 % * w[n] is a gaussian noise
-% * Fc0 = +1/8*Fs [kHz]
-% * Fc1 = -3/8*Fs [kHz]
+% * Fc0 = +1/8*Fs
+% * Fc1 = -3/8*Fs
 % * A0 = 1
 % * A1 = 1/4
 % * Parallel Factor M=2
